@@ -53,11 +53,15 @@ Backend (Render): https://finance-backend-box1.onrender.com
 
 
 ###📸 Screenshots
-image1: https://res.cloudinary.com/dzwzh1wki/image/upload/v1745850004/Screenshot_2025-04-28_194451_yxx8o4.png
 
-image2: https://res.cloudinary.com/dzwzh1wki/image/upload/v1745850004/Screenshot_2025-04-28_194739_ms2xsb.png
+image1:
+<img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1745850004/Screenshot_2025-04-28_194451_yxx8o4.png"/>
 
-image3: https://res.cloudinary.com/dzwzh1wki/image/upload/v1745850005/Screenshot_2025-04-28_194812_bdvllx.png
+image2: 
+<img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1745850004/Screenshot_2025-04-28_194739_ms2xsb.png"/>
+
+image3: 
+<img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1745850005/Screenshot_2025-04-28_194812_bdvllx.png"/>
 
 ### video:  https://www.youtube.com/@abhilashaabhi4290
 
